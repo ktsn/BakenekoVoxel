@@ -6,6 +6,8 @@
   * Import `.obj` and map the model and bones.
   * Export `.fbx` file to use it in Unity.
 * Make the model usable in VRChat in [Unity](https://unity3d.com).
+  * Import `.fbx` file.
+  * You need to import and map texture `.png` file with the model.
 
 ## References
 
